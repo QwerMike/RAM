@@ -4,7 +4,7 @@
 // Add two number from input plus 1
 // Example,
 // Input: "10 22"
-// Output: "23"
+// Output: "33"
 
 // number 5 means there are 5 registers (0..4)
 RAM(5)
